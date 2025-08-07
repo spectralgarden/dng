@@ -18,7 +18,7 @@ Designed to conjure evocative, surreal, or cryptic names for characters, brands,
 It’s meant to break naming paralysis and spark unexpected connections in your creative process.
 
 ## 🌐 Live Demo
-[]
+[https://spectralgarden.github.io/dng/]
 
 ## 🪞 Future Enhancements
 - Add theme toggles (e.g. vaporwave, occult, suburban decay)
